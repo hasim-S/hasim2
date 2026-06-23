@@ -1,10 +1,8 @@
 import java.util.*;
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
-       // int h=1;
                 int n=digits.length;
-        //for(int i=1;i<=n;i++)
-        //h*=i;
+       
         int a[]=new  int[450];
 
         int x=0;
